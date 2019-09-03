@@ -1,2 +1,2 @@
 # eschum_projects
-Miscellaneous Side Projects
+Miscellaneous hobby coding and side projects
